@@ -10,8 +10,8 @@ body {
 
 header {
     text-align: center;
-    background-color:antiquewhite;
-    padding: 50px 10px;
+    background-color: antiquewhite;
+    padding: 20px;
 }
 
 header h1 {
@@ -40,9 +40,14 @@ header h1 {
 
 footer {
     text-align: center;
-    background-color:antiquewhite;
-    padding: 10px;
+    background-color: antiquewhite;
     margin-top: 20px;
+    border: 1px solid bisque;   
+}
+
+#footer-img {
+    width: 30;
+    height: auto;
 }
 
 .link-list {
