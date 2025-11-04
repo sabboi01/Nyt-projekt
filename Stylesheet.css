@@ -42,3 +42,10 @@ footer {
     padding: 10px;
     margin-top: 20px;
 }
+
+.link-list {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    object-fit: cover;
+}
