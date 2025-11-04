@@ -15,7 +15,7 @@ header {
 }
 
 header h1 {
-    margin: 0;
+    font-family: Tahoma, sans-serif;
 }
 
 .projects {
@@ -51,8 +51,11 @@ footer {
 }
 
 .link-list {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
-    object-fit: cover;
+    display: flex;
+    justify-content: end;
+    padding-right: 30px;
+    list-style: none;
+    gap: 60px;
 }
+ 
+
